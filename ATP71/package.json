@@ -1,0 +1,12 @@
+{
+  "name": "atp71",
+  "version": "1.0.0",
+  "description": "atividade pratica nodejs",
+  "main": "inicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa",
+  "license": "ISC",
+  "type": "module"
+}
