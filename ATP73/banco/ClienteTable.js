@@ -1,7 +1,7 @@
 import { Sequelize } from "sequelize";
 import Database from "./Database.js";
 
-const ClienteTable = Database.define('cliente',{
+const ClienteTable = Database.define('clientes',{
     id:{
         type: Sequelize.INTEGER,
         allowNull: false,
