@@ -1,0 +1,16 @@
+{
+  "name": "atp73",
+  "version": "1.0.0",
+  "description": "atividade pratica",
+  "main": "inicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "pg": "^8.7.1",
+    "sequelize": "^6.12.0-beta.1"
+  }
+}
