@@ -1,0 +1,8 @@
+{//configuracoes de compilação do typescript pro js
+    "compilerOptions": {
+        "target":"ES6", //versão 
+        "outDir": "dist/js",
+        "noEmitOnError":true, //pasta que vai depois que compilar
+    },
+    "target": ["src /**/*"], // de onde estao arquivos ts, 
+}
